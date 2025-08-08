@@ -1,0 +1,5 @@
+WindowedWidth=1920
+WindowedHeight=1080
+ExclusiveWidth=3440
+ExclusiveHeight=1440
+IsFullscreen=true

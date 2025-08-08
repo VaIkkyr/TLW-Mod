@@ -1,0 +1,67 @@
+[Sunday, July 06, 2025 | 7:38:06 PM] Ignore Valkyr {1} OSR(149b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)2066061405
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 06, 2025 | 7:38:09 PM] Ban Valkyr {2} OSR(149b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)2066063890
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 06, 2025 | 7:38:16 PM] Ignore Valkyr {1} OSR(149b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)2066070890
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 06, 2025 | 7:38:16 PM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 06, 2025 | 7:38:23 PM] Ignore Valkyr {1} OSR(149b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)2066078140
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, July 12, 2025 | 12:06:16 PM] Ban Valkyr {2} OSR(138b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)242191473
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, July 12, 2025 | 12:06:17 PM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, July 12, 2025 | 12:06:19 PM] Ignore Valkyr {1} OSR(138b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)242193747
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, July 12, 2025 | 12:06:25 PM] Ban Afpqev {4} OSR(138b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)4001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)242199832
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, July 12, 2025 | 12:06:31 PM] Ignore Valkyr {1} OSR(138b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)242205794
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, July 12, 2025 | 12:06:31 PM] Ban Afpqev {5} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Saturday, July 12, 2025 | 12:06:37 PM] Ignore Valkyr {1} OSR(138b) invalid objArray length (5) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)242212106
+------------------------------------------------------------------------------------------------------------------------
+[Tuesday, July 15, 2025 | 2:05:42 PM] Ban Valkyr {2} OSR(122b) objArray not customType (length: 4)(System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)508558215
+0:(-39.5, 81.4, -239.0), 1:(0.0, 0.0, 0.0, 1.0),2:(0.0, 0.0, 0.0, 1.0)
+------------------------------------------------------------------------------------------------------------------------
+[Tuesday, July 15, 2025 | 2:07:45 PM] Ban Valkyr {2} OSR(122b) objArray not customType (length: 4)(System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)508681356
+0:(-55.4, 79.4, -144.6), 1:(0.0, 0.0, 0.0, 1.0),2:(0.0, 0.0, 0.0, 1.0)
+------------------------------------------------------------------------------------------------------------------------
+[Tuesday, July 15, 2025 | 2:07:46 PM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Tuesday, July 15, 2025 | 2:10:13 PM] Ban Valkyr {2} OSR(122b) objArray not customType (length: 4)(System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)508828825
+0:(36.8, 75.1, -311.4), 1:(0.0, 0.0, 0.0, 1.0),2:(0.0, 0.0, 0.0, 1.0)
+------------------------------------------------------------------------------------------------------------------------
+[Tuesday, July 15, 2025 | 2:13:18 PM] Ban Valkyr {2} OSR(122b) objArray not customType (length: 4)(System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)509013880
+0:(-55.4, 79.3, -144.6), 1:(0.0, 0.0, 0.0, 1.0),2:(0.0, 0.0, 0.0, 1.0),3:50.00002
+------------------------------------------------------------------------------------------------------------------------
+[Tuesday, July 15, 2025 | 2:13:19 PM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 20, 2025 | 11:09:28 PM] Ban Valkyr {2} OSR(141b) invalid objArray length (6) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)973187646
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 20, 2025 | 11:09:29 PM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 20, 2025 | 11:09:30 PM] Ignore Valkyr {1} OSR(141b) invalid objArray length (6) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)973189364
+------------------------------------------------------------------------------------------------------------------------
+[Sunday, July 20, 2025 | 11:14:53 PM] Ban Valkyr {2} OSR(141b) invalid objArray length (6) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)973512512
+------------------------------------------------------------------------------------------------------------------------
+[Monday, July 21, 2025 | 7:52:51 PM] Ban Valkyr {2} OSR(141b) objArray not customType (length: 6)(System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)1047789029
+0:(72.2, 77.9, -255.4), 1:(0.0, 0.0, 0.0, 1.0),2:(0.0, -2.0, 0.0),3:(0.0, 0.0, 0.0),4:(0.0, 0.0, 0.0, 1.0)
+------------------------------------------------------------------------------------------------------------------------
+[Monday, July 21, 2025 | 7:52:53 PM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, July 24, 2025 | 4:19:23 PM] Ban Valkyr {2} OSR(220b) objArray not customType (length: 4)(System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Int16)3=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2010, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)-685647437
+0:(24.3, 44.6, -164.0), 1:(0.0, 1.0, 0.0, -0.1),2:(-116.3, -18.0, -593.5),3:3609319.859
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, July 24, 2025 | 4:19:25 PM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, July 24, 2025 | 4:32:52 PM] Ignore Valkyr {1} OSR(220b) objArray not customType (length: 4)(System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1001, (System.Int16)3=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)1005, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)-684838985
+0:(40.0, 99.6, -205.0), 1:(0.0, 0.9, 0.0, -0.4),2:(-410.1, -48.8, -442.1),3:3610128.311
+------------------------------------------------------------------------------------------------------------------------
+[Thursday, July 24, 2025 | 8:18:48 PM] Ban Valkyr {2} Instantiate aottg_hero 1 SPAM (6)
+------------------------------------------------------------------------------------------------------------------------
+[Friday, July 25, 2025 | 11:03:49 AM] Ban Valkyr {2} OSR(143b) invalid objArray length (7) (System.Int16)2=(ExitGames.Client.Photon.Hashtable)(System.Byte)1=(System.Object[])System.Object[], (System.Byte)0=(System.Int32)2001, (System.Byte)1=(System.Int16)0, (System.Byte)0=(System.Int32)-618181774
+------------------------------------------------------------------------------------------------------------------------
+[Friday, July 25, 2025 | 11:03:50 AM] Ban Valkyr {3} DC List
+------------------------------------------------------------------------------------------------------------------------
